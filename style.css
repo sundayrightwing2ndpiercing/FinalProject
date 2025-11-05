@@ -1,0 +1,99 @@
+body {
+    background-color: rgb(195, 244, 250);
+   color: rgb(66, 83, 94); 
+
+}
+
+p {
+    text-decoration-color: cornflowerblue;
+    color: darkslategray;
+    font-family: monospace;
+    font-size: 20px;
+     font-weight: 100;
+     text-align: center;
+}
+
+ol {
+    text-decoration-color: cornflowerblue;
+    color: darkslategray;
+    font-family: monospace;
+    font-size: 20px;
+     font-weight: 100;
+     text-align: center;
+}
+
+tr {
+    text-decoration-color: cornflowerblue;
+    color: darkslategray;
+    font-family: monospace;
+    font-size: 20px;
+     font-weight: 100;
+     text-align: center;
+}
+
+ul {
+    text-decoration-color: cornflowerblue;
+    color: darkslategray;
+    font-family: monospace;
+    font-size: 20px;
+     font-weight: 100;
+     text-align: center;
+}
+
+td {
+    text-decoration-color: cornflowerblue;
+    color: darkslategray;
+    font-family: monospace;
+    font-size: 20px;
+     font-weight: 100;
+     text-align: center;
+}
+
+th {
+    text-decoration-color: cornflowerblue;
+    color: darkslategray;
+    font-family: monospace;
+    font-size: 20px;
+     font-weight: 100;
+     text-align: center;
+}
+
+li{ 
+    text-decoration-color: rgb(0, 0, 0);
+    color: darkslategray;
+    font-family: monospace;
+    font-size: 20px;
+     font-weight: 100;
+     text-align: center;
+}
+
+a {
+    text-decoration-color: rgb(0, 0, 0);
+    color: darkslategray;
+    font-family: monospace;
+    font-size: 20px;
+     font-weight: 100;
+     text-align: center;
+}
+
+img {
+    height: 200px;
+    align-items: center;
+    align-content: center;
+
+}
+
+.sundayoak{
+    color: rgb(0, 0, 0);
+    background-color: darkslategrey;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+.sundayoak p{
+    color: black;
+}
+
+h1:hover{
+    color: pink;
+}
