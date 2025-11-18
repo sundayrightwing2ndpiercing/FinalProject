@@ -1,6 +1,4 @@
-/* ============================
-   Global Page Styles
-============================ */
+
 
 body {
     background-color: #fff7fb;    /* very light pastel pink */
@@ -9,9 +7,7 @@ body {
     text-align: center;
 }
 
-/* ============================
-   Text Elements
-============================ */
+
 
 p, ol, ul, li, td, th, tr {
     color: #7a5c6c;               /* pastel mauve */
@@ -31,10 +27,6 @@ li:hover {
     border-radius: 6px;
     padding: 2px 4px;
 }
-
-/* ============================
-   Links & Buttons
-============================ */
 
 a {
     color: #c489b3;               /* muted pinkish purple */
@@ -62,9 +54,7 @@ button:hover {
     cursor: pointer;
 }
 
-/* ============================
-   Images
-============================ */
+
 
 img {
     height: 200px;
@@ -72,9 +62,6 @@ img {
     margin: auto;
 }
 
-/* ============================
-   Special Section (.sundayoak)
-============================ */
 
 .sundayoak {
     color: white;
@@ -98,5 +85,6 @@ img {
 p:hover{
     color: pink;
 }
+
 
 
