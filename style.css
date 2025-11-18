@@ -17,14 +17,61 @@ p:hover {
 
 li:hover {
     color: rgb(255, 255, 255);
-    background-color: rgb(214, 179, 230)
+    background-color: rgb(214, 179, 230);
+    border-radius: 6px;
+    padding: 2px 4px;
+}
 
+a {
+    color: rgb(196, 137, 179);
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(231, 168, 216);
+}
+
+button {
+    font-family: monospace;
+    padding: 6px 18px;
+    margin: 6px;
+    background-color: rgb(247, 217, 232);
+    border: 1px solid rgb(229, 180, 210);
+    border-radius: 6px;
+    color: rgb(122, 92, 108);
+}
+
+button:hover {
+    background-color: rgb(238, 195, 223);
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+}
+
+img {
+    height: 200px;
+    display: block;
+    margin: auto;
+}
+
+.sundayoak {
+    color: rgb(255, 255, 255);
+    background-color: rgb(226, 181, 207);
+    padding: 25px;
+    margin-left: 80px;
+    margin-right: 80px;
+    border-radius: 12px;
+    box-shadow: 0px 0px 10px rgba(226, 181, 207, 0.4);
+}
+
+.sundayoak p {
+    color: rgb(255, 255, 255);
+}
+
+.sundayoak:hover {
+    background-color: rgb(216, 166, 196);
 }
 
 
-p:hover{
-    color: pink;
-}
 
 
 
