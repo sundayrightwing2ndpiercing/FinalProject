@@ -1,90 +1,31 @@
-
-
 body {
-    background-color: #fff7fb;    /* very light pastel pink */
-    color: #7a5c6c;               /* muted mauve text */
+    background-color: rgb(255, 247, 251);
+    color: rgb(122, 92, 108);
     font-family: monospace;
     text-align: center;
 }
 
-
-
 p, ol, ul, li, td, th, tr {
-    color: #7a5c6c;               /* pastel mauve */
+    color: rgb(122, 92, 108);
     font-size: 20px;
     font-weight: 100;
 }
 
-/* Paragraph hover: soft rosy pink */
 p:hover {
-    color: #d88fb8;               /* soft rose pink */
+    color: rgb(216, 143, 184);
 }
 
-/* List item hover: pastel lavender */
 li:hover {
-    color: white;
-    background-color: #d6b3e6;    /* pastel lavender */
-    border-radius: 6px;
-    padding: 2px 4px;
-}
+    color: rgb(255, 255, 255);
+    background-color: rgb(214, 179, 230)
 
-a {
-    color: #c489b3;               /* muted pinkish purple */
-    text-decoration: none;
-}
-
-a:hover {
-    color: #e7a8d8;               /* soft lavender pink */
-}
-
-/* Button styling */
-button {
-    font-family: monospace;
-    padding: 6px 18px;
-    margin: 6px;
-    background-color: #f7d9e8;   /* pastel baby pink */
-    border: 1px solid #e5b4d2;
-    border-radius: 6px;
-    color: #7a5c6c;
-}
-
-button:hover {
-    background-color: #eec3df;   /* pastel blush pink */
-    color: white;
-    cursor: pointer;
-}
-
-
-
-img {
-    height: 200px;
-    display: block;
-    margin: auto;
-}
-
-
-.sundayoak {
-    color: white;
-    background-color: #e2b5cf;   /* blended pastel rose */
-    padding: 25px;
-    margin-left: 80px;
-    margin-right: 80px;
-    border-radius: 12px;
-    box-shadow: 0px 0px 10px rgba(226, 181, 207, 0.4);
-}
-
-.sundayoak p {
-    color: white;
-}
-
-.sundayoak:hover {
-    background-color: #d8a6c4;   /* slightly deeper pastel */
 }
 
 
 p:hover{
     color: pink;
 }
+
 
 
 
